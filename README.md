@@ -1,4 +1,6 @@
 # Welcome to my world!
 
-jdkworld.github.io
+Working on sustainable buildings and energy systems to preserve planet Earth and advance human life.
+
+[jdkworld.github.io]
 
